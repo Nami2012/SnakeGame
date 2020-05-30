@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sdl.dir/sdl/CApp.cpp.o  -o sdl  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -Wl,--enable-new-dtags -lSDL2 

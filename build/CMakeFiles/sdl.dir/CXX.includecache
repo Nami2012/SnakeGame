@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vaskian/SnakeGame/sdl/CApp.cpp
+CApp.h
+/home/vaskian/SnakeGame/sdl/CApp.h
+stdio.h
+-
+
+/home/vaskian/SnakeGame/sdl/CApp.h
+SDL2/SDL.h
+-
+

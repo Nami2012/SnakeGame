@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/snakeGame.dir/snakegame/main.cpp.o CMakeFiles/snakeGame.dir/snakegame/renderer.cpp.o CMakeFiles/snakeGame.dir/snakegame/snake.cpp.o  -o snakeGame  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -Wl,--enable-new-dtags -lSDL2 

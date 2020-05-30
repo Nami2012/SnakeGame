@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vaskian/SnakeGame/snakegame/main.cpp
+iostream
+-
+renderer.h
+/home/vaskian/SnakeGame/snakegame/renderer.h
+
+/home/vaskian/SnakeGame/snakegame/poison.h
+
+/home/vaskian/SnakeGame/snakegame/renderer.cpp
+renderer.h
+/home/vaskian/SnakeGame/snakegame/renderer.h
+iostream
+-
+string
+-
+
+/home/vaskian/SnakeGame/snakegame/renderer.h
+SDL2/SDL.h
+-
+snake.h
+/home/vaskian/SnakeGame/snakegame/snake.h
+poison.h
+/home/vaskian/SnakeGame/snakegame/poison.h
+set
+-
+
+/home/vaskian/SnakeGame/snakegame/snake.cpp
+
+/home/vaskian/SnakeGame/snakegame/snake.h
+vector
+-
+SDL2/SDL.h
+-
+

@@ -1,0 +1,3 @@
+/home/vaskian/SnakeGame/build/CMakeFiles/rebuild_cache.dir
+/home/vaskian/SnakeGame/build/CMakeFiles/edit_cache.dir
+/home/vaskian/SnakeGame/build/CMakeFiles/snakeGame.dir
