@@ -143,6 +143,60 @@ snakeGame/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/snakeGame.dir/build.make CMakeFiles/snakeGame.dir/build
 .PHONY : snakeGame/fast
 
+snakegame/controller.o: snakegame/controller.cpp.o
+
+.PHONY : snakegame/controller.o
+
+# target to build an object file
+snakegame/controller.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/snakeGame.dir/build.make CMakeFiles/snakeGame.dir/snakegame/controller.cpp.o
+.PHONY : snakegame/controller.cpp.o
+
+snakegame/controller.i: snakegame/controller.cpp.i
+
+.PHONY : snakegame/controller.i
+
+# target to preprocess a source file
+snakegame/controller.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/snakeGame.dir/build.make CMakeFiles/snakeGame.dir/snakegame/controller.cpp.i
+.PHONY : snakegame/controller.cpp.i
+
+snakegame/controller.s: snakegame/controller.cpp.s
+
+.PHONY : snakegame/controller.s
+
+# target to generate assembly for a file
+snakegame/controller.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/snakeGame.dir/build.make CMakeFiles/snakeGame.dir/snakegame/controller.cpp.s
+.PHONY : snakegame/controller.cpp.s
+
+snakegame/game.o: snakegame/game.cpp.o
+
+.PHONY : snakegame/game.o
+
+# target to build an object file
+snakegame/game.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/snakeGame.dir/build.make CMakeFiles/snakeGame.dir/snakegame/game.cpp.o
+.PHONY : snakegame/game.cpp.o
+
+snakegame/game.i: snakegame/game.cpp.i
+
+.PHONY : snakegame/game.i
+
+# target to preprocess a source file
+snakegame/game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/snakeGame.dir/build.make CMakeFiles/snakeGame.dir/snakegame/game.cpp.i
+.PHONY : snakegame/game.cpp.i
+
+snakegame/game.s: snakegame/game.cpp.s
+
+.PHONY : snakegame/game.s
+
+# target to generate assembly for a file
+snakegame/game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/snakeGame.dir/build.make CMakeFiles/snakeGame.dir/snakegame/game.cpp.s
+.PHONY : snakegame/game.cpp.s
+
 snakegame/main.o: snakegame/main.cpp.o
 
 .PHONY : snakegame/main.o
@@ -233,6 +287,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... snakeGame"
+	@echo "... snakegame/controller.o"
+	@echo "... snakegame/controller.i"
+	@echo "... snakegame/controller.s"
+	@echo "... snakegame/game.o"
+	@echo "... snakegame/game.i"
+	@echo "... snakegame/game.s"
 	@echo "... snakegame/main.o"
 	@echo "... snakegame/main.i"
 	@echo "... snakegame/main.s"

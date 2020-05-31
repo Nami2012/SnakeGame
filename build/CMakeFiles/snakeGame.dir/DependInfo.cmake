@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/vaskian/SnakeGame/snakegame/controller.cpp" "/home/vaskian/SnakeGame/build/CMakeFiles/snakeGame.dir/snakegame/controller.cpp.o"
+  "/home/vaskian/SnakeGame/snakegame/game.cpp" "/home/vaskian/SnakeGame/build/CMakeFiles/snakeGame.dir/snakegame/game.cpp.o"
   "/home/vaskian/SnakeGame/snakegame/main.cpp" "/home/vaskian/SnakeGame/build/CMakeFiles/snakeGame.dir/snakegame/main.cpp.o"
   "/home/vaskian/SnakeGame/snakegame/renderer.cpp" "/home/vaskian/SnakeGame/build/CMakeFiles/snakeGame.dir/snakegame/renderer.cpp.o"
   "/home/vaskian/SnakeGame/snakegame/snake.cpp" "/home/vaskian/SnakeGame/build/CMakeFiles/snakeGame.dir/snakegame/snake.cpp.o"

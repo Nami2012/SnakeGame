@@ -6,12 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/vaskian/SnakeGame/snakegame/main.cpp
-iostream
--
-renderer.h
-/home/vaskian/SnakeGame/snakegame/renderer.h
-
 /home/vaskian/SnakeGame/snakegame/poison.h
 
 /home/vaskian/SnakeGame/snakegame/renderer.cpp
@@ -29,10 +23,6 @@ snake.h
 /home/vaskian/SnakeGame/snakegame/snake.h
 poison.h
 /home/vaskian/SnakeGame/snakegame/poison.h
-set
--
-
-/home/vaskian/SnakeGame/snakegame/snake.cpp
 
 /home/vaskian/SnakeGame/snakegame/snake.h
 vector
